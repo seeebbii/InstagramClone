@@ -8,7 +8,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.viewpager.widget.ViewPager;
 
-
 public class SocialMediaActivity extends AppCompatActivity {
 
     private Toolbar toolBar;
